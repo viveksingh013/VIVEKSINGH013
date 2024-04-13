@@ -9,7 +9,7 @@ A freshman at Delhi Technological University pursuing my undergrad in Computer S
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [viveksingh956038@gmail.com](mailto:viveksingh956038@gmail.com)
 * 🚀  I'm currently working on [Github](http://www.github.com/viveksingh013)
-* 🧠  I'm learning C++
+* 🧠  I'm learning web development
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Fast Learner
 
