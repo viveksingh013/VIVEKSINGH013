@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DTU CSE'26
 ----------
 
-A freshman at Delhi Technological University pursuing my undergrad in Computer Science Major in Technology.
+A junior undergrad at Delhi Technological University pursuing my undergrad in Computer Science Major in Technology.
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [viveksingh956038@gmail.com](mailto:viveksingh956038@gmail.com)
