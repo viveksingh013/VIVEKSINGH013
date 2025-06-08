@@ -1,17 +1,29 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Singh
 ===================================================================================================================================
 
-DTU CSE'26
+👨‍💻 Final Year CSE Student | 💻 Web Developer | 🚀 Open Source Enthusiast | 📍 Delhi, India
+Passionate about building meaningful tech and solving real-world problems through code.
+Currently diving into open-source projects and exploring backend systems, data structures, and algorithms.
+Always learning, always shipping 🚢
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/viveksingh013/) | 🌐 Portfolio: [https://vivekportfolio113.netlify.app/]
 ----------
 
-A junior undergrad at Delhi Technological University pursuing my undergrad in Computer Science Major in Technology.
+## 💡 About Me
+- 👨‍💻 I love writing code that solves real-world problems
+- 🌐 I build web apps using HTML, CSS, JavaScript, and React
+- 🛠️ I enjoy working on backend logic, APIs, and data structures
+- 📚 I'm currently exploring the open-source world and loving every PR 🫶
+- 🧠 Lifelong learner and tech optimist
+* ⚡ Fun fact: I once debugged a C++ program at 3 AM with coffee and sheer will.
+* ✉️ You can contact me at [viveksingh956038@gmail.com](mailto:viveksingh956038@gmail.com)
+* 🤝 I'm open to collaborating on interesting projects
 
-* 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [viveksingh956038@gmail.com](mailto:viveksingh956038@gmail.com)
-* 🚀  I'm currently working on [Github](http://www.github.com/viveksingh013)
-* 🧠  I'm learning web development
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Fast Learner
+  
+## 🔧 Tech Stack
+Languages:     C++ | JavaScript | Python (a bit)
+Frontend:      HTML | CSS | React | Tailwind
+Backend:       Node.js | Express
+Tools/Other:   Git | GitHub | VS Code | Postman | MongoDB
 
 <a href="https://www.github.com/viveksingh013" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/viveksingh013?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,7 +39,24 @@ src="https://img.shields.io/github/followers/viveksingh013?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/viveksingh013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_viveksingh013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/viveksingh013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/viveksingh013" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/_viveksingh013" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/viveksingh013" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://x.com/_viveksingh013" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://discord.com/users/viveksingh013" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+</p>
+
 
 ### Badges
 
